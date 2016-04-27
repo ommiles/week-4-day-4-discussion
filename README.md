@@ -3,10 +3,13 @@
 Take 30 minutes to discuss the following questions with your table group. 
 
 1 . Map the CRUD actions to the appropriatea Sinatra route to the appropriate view, if any. What kind of HTTP request is sent for each CRUD action (`GET`, `POST`, etc)
+
 2 . Let's say you have build a Sinatra app that is a blogging platform. You have a Post and an Author model and you have controllers and routes for the CRUD actions of each model. You sit down at your computer and visit www.youramazingsinatrablog.com/posts:
   * What kind of web request is this making? (i.e. is it a `GET`, `POST`, etc request?)
   * What controller action (i.e. which route in which controller) will recieve that web request?
   * What is the response that your Sinatra app will send back to the client, i.e. the browser?
+
+  
 3 . You have the following form for a new blog post:
 
 ```html
