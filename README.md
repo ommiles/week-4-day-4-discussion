@@ -1,4 +1,4 @@
-# Rails Intro Review
+# Discussion Questions: Rails Intro Review
 
 Take 30 minutes to discuss the following questions with your table group.
 
