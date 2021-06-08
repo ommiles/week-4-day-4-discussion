@@ -11,12 +11,19 @@ class SmoothiesController < ApplicationController
         @ingredients = @smoothie.ingredients
     end
 
-    # edit
-    # new
-    # update
-    # destroy
+    def edit
+    end
 
-    # VIEWs
+    def new
+    end
+
+    def update
+    end
+
+    def destroy
+    end
+    
+    # VIEWS:
     # index 
     # view 
     # show 
